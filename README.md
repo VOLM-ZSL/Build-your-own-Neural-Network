@@ -9,8 +9,8 @@ Ten tutorial pozwoli Ci zrozumieć jak działają sieci neuronowe, niezależnie 
 - **Zrozumieć działanie deep learningu:** Zdobędziesz głębsze zrozumienie tego, jak działa deep learning.
 - **Poprawić wydajność kodu:** Nauczysz się optymalizować kod za pomocą wektoryzacji.
 ### Czego się nauczysz?
-- Podstawy uczenia maszynowego
-- Podstawy algebry liniowej i rachunku różniczkowego (pochodne)
+- [Podstawy uczenia maszynowego](https://github.com/VOLM-ZSL/Build-your-own-Neural-Network/blob/main/Basics%20of%20Machine%20Learning.md)
+- [Podstawy algebry liniowej (Macierze)](https://github.com/VOLM-ZSL/Build-your-own-Neural-Network/blob/main/Macierze.md) i rachunku różniczkowego (pochodne)
 - Model perceptronu
 - Podstawowa notacja sieci neuronowych
 - Przesyłanie w przód (Feed Forward)

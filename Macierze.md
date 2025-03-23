@@ -147,7 +147,9 @@ Ale co jeśli transponujemy tę macierz 3 x 2 w macierz 2 x 3?
 Transpozycja macierzy daje nam również dużą elastyczność w mnożeniu macierzy według następującego prawa:
 
 **Prawo transpozycji**  
-$$W^{T}X=XW$$   
+
+$$W^{T}X=XW$$
+  
 
 Dlaczego nie spróbujesz udowodnić tego samodzielnie? Użyj poniższych macierzy.
 
@@ -158,3 +160,27 @@ Dlaczego nie spróbujesz udowodnić tego samodzielnie? Użyj poniższych macierz
 - Przy mnożeniu macierzy kolejność ma znaczenie.
 - Możesz pomnożyć dwie macierze tylko wtedy, gdy pierwsza macierz ma wymiary a x b, a druga ma wymiary b x c, co daje macierz o wymiarach a x c.
 - Transponowanie macierzy zamienia jej kolumny i wiersze. Sprawia, że macierz o wymiarach a x b zmienia się w macierz o wymiarach b x a.
+
+## Kod 
+```python
+import numpy as np
+
+# Tworzenie macierzy
+A = np.array([[1, 2], [3, 4]])
+B = np.array([[5, 6], [7, 8]])
+
+# Iloczyn skalarny (dot product)
+iloczyn_skalarny = np.dot(A, B)
+print("Iloczyn skalarny:\n", iloczyn_skalarny)
+
+# Mnożenie macierzy (element-wise)
+mnozenie_element_wise = A * B
+print("Mnożenie elementów macierzy:\n", mnozenie_element_wise)
+
+# Transpozycja macierzy
+transpozycja_A = np.transpose(A)
+print("Transpozycja macierzy A:\n", transpozycja_A)
+
+# Macierz jednostkowa
+macierz_jednostkowa = np.eye(2)
+print("Macierz jednostkowa:\n", macierz_jednostkowa) ```

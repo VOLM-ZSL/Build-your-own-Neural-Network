@@ -3,6 +3,7 @@
 - Spora część materiału bazuję na tym [artykule](https://medium.com/@waadlingaadil/learn-to-build-a-neural-network-from-scratch-yes-really-cac4ca457efc) tego [gościa](https://medium.com/@waadlingaadil)
 - [Dobrze wytłumaczona matma](https://www.youtube.com/@3blue1brown/courses)
 - [Sympatyczny gość z gitarą, który dobrze tłumaczy sieci neuronowe](https://www.youtube.com/@statquest)
+- [Kurs z deep learningu](https://www.kaggle.com/code/basia25/introduction-to-scikit-learn?scriptVersionId=228884388)
 ## Wprowadzenie
 Ten tutorial pozwoli Ci zrozumieć jak działają sieci neuronowe, niezależnie od poziomu doświadczenia. Nauczysz się budować sieć neuronową od podstaw, co pomoże Ci:
 - **Zrozumieć matematykę:** Zaznajomisz się z kluczowymi koncepcjami matematycznymi, które są podstawą uczenia maszynowego.

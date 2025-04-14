@@ -54,8 +54,8 @@ Jeśli koszt jest miarą tego, jak słabo radzi sobie model, to najpierw potrzeb
 
 1. Czy możesz zminimalizować, a nawet zrozumieć funkcję tej wielkości? 
 2. Czy możesz zminimalizować koszt ręcznie? 
-Oto odpowiedzi na oba pytania:
 
+Oto odpowiedzi na oba pytania:
 1. Możesz. 
 2. Nie możesz – dlatego używamy komputerów.
 # Podsumowanie uczenia maszynowego
